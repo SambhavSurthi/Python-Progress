@@ -1,0 +1,267 @@
+2025-12-26 10:03:14 - root - INFO - info
+2025-12-26 10:03:14 - root - ERROR - error
+2025-12-26 10:03:14 - root - DEBUG - debug
+2025-12-26 10:03:14 - root - WARNING - warning
+2025-12-26 10:03:32 - root - INFO - info
+2025-12-26 10:03:32 - root - ERROR - error
+2025-12-26 10:03:32 - root - DEBUG - debug
+2025-12-26 10:03:32 - root - WARNING - warning
+2025-12-26 10:05:07 - my_logger - DEBUG - This is a debug message
+2025-12-26 10:05:07 - my_logger - INFO - This is an info message
+2025-12-26 10:05:07 - my_logger - WARNING - This is a warning message
+2025-12-26 10:05:07 - my_logger - ERROR - This is an error message
+2025-12-26 10:05:07 - my_logger - CRITICAL - This is a critical message
+2025-12-26 10:06:32 - my_logger - DEBUG - This is a debug message
+2025-12-26 10:06:32 - my_logger - INFO - This is an info message
+2025-12-26 10:06:32 - my_logger - WARNING - This is a warning message
+2025-12-26 10:06:32 - my_logger - ERROR - This is an error message
+2025-12-26 10:06:32 - my_logger - CRITICAL - This is a critical message
+2025-12-26 10:06:56 - custom_logger - DEBUG - This is a debug message
+2025-12-26 10:06:56 - custom_logger - INFO - This is an info message
+2025-12-26 10:06:56 - custom_logger - WARNING - This is a warning message
+2025-12-26 10:06:56 - custom_logger - ERROR - This is an error message
+2025-12-26 10:06:56 - custom_logger - CRITICAL - This is a critical message
+2025-12-26 10:07:05 - multi_format_logger - DEBUG - This is a debug message
+2025-12-26 10:07:05 - multi_format_logger - INFO - This is an info message
+2025-12-26 10:07:05 - multi_format_logger - WARNING - This is a warning message
+2025-12-26 10:07:05 - multi_format_logger - ERROR - This is an error message
+2025-12-26 10:07:05 - multi_format_logger - CRITICAL - This is a critical message
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 0
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 1
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 2
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 3
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 4
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 5
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 6
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 7
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 8
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 9
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 10
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 11
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 12
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 13
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 14
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 15
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 16
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 17
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 18
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 19
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 20
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 21
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 22
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 23
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 24
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 25
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 26
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 27
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 28
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 29
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 30
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 31
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 32
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 33
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 34
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 35
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 36
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 37
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 38
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 39
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 40
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 41
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 42
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 43
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 44
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 45
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 46
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 47
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 48
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 49
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 50
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 51
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 52
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 53
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 54
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 55
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 56
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 57
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 58
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 59
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 60
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 61
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 62
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 63
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 64
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 65
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 66
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 67
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 68
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 69
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 70
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 71
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 72
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 73
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 74
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 75
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 76
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 77
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 78
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 79
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 80
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 81
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 82
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 83
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 84
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 85
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 86
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 87
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 88
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 89
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 90
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 91
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 92
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 93
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 94
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 95
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 96
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 97
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 98
+2025-12-26 10:07:13 - rotating_logger - DEBUG - This is debug message number 99
+2025-12-26 10:07:15 - root - INFO - info
+2025-12-26 10:07:15 - root - ERROR - error
+2025-12-26 10:07:15 - root - DEBUG - debug
+2025-12-26 10:07:15 - root - WARNING - warning
+2025-12-26 10:07:15 - root - INFO - info
+2025-12-26 10:07:15 - root - ERROR - error
+2025-12-26 10:07:15 - root - DEBUG - debug
+2025-12-26 10:07:15 - root - WARNING - warning
+2025-12-26 10:07:15 - my_logger - DEBUG - This is a debug message
+2025-12-26 10:07:15 - my_logger - INFO - This is an info message
+2025-12-26 10:07:15 - my_logger - WARNING - This is a warning message
+2025-12-26 10:07:15 - my_logger - ERROR - This is an error message
+2025-12-26 10:07:15 - my_logger - CRITICAL - This is a critical message
+2025-12-26 10:07:15 - custom_logger - DEBUG - This is a debug message
+2025-12-26 10:07:15 - custom_logger - INFO - This is an info message
+2025-12-26 10:07:15 - custom_logger - WARNING - This is a warning message
+2025-12-26 10:07:15 - custom_logger - ERROR - This is an error message
+2025-12-26 10:07:15 - custom_logger - CRITICAL - This is a critical message
+2025-12-26 10:07:15 - multi_format_logger - DEBUG - This is a debug message
+2025-12-26 10:07:15 - multi_format_logger - INFO - This is an info message
+2025-12-26 10:07:15 - multi_format_logger - WARNING - This is a warning message
+2025-12-26 10:07:15 - multi_format_logger - ERROR - This is an error message
+2025-12-26 10:07:15 - multi_format_logger - CRITICAL - This is a critical message
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 0
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 1
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 2
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 3
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 4
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 5
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 6
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 7
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 8
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 9
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 10
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 11
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 12
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 13
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 14
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 15
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 16
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 17
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 18
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 19
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 20
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 21
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 22
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 23
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 24
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 25
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 26
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 27
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 28
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 29
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 30
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 31
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 32
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 33
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 34
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 35
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 36
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 37
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 38
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 39
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 40
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 41
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 42
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 43
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 44
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 45
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 46
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 47
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 48
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 49
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 50
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 51
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 52
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 53
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 54
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 55
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 56
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 57
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 58
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 59
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 60
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 61
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 62
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 63
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 64
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 65
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 66
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 67
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 68
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 69
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 70
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 71
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 72
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 73
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 74
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 75
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 76
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 77
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 78
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 79
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 80
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 81
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 82
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 83
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 84
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 85
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 86
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 87
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 88
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 89
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 90
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 91
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 92
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 93
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 94
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 95
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 96
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 97
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 98
+2025-12-26 10:07:15 - rotating_logger - DEBUG - This is debug message number 99
+2025-12-26 10:07:15 - exception_logger - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "C:\Users\sambhav_surthi\AppData\Local\Temp\ipykernel_6516\3259282278.py", line 12, in log_exception
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-12-26 10:07:15 - context_logger - DEBUG - This is a debug message
+2025-12-26 10:07:15 - context_logger - INFO - This is an info message
+2025-12-26 10:07:15 - context_logger - WARNING - This is a warning message
+2025-12-26 10:07:15 - context_logger - ERROR - This is an error message
+2025-12-26 10:07:15 - context_logger - CRITICAL - This is a critical message
+2025-12-26 10:07:15 - additional_context_logger - DEBUG - This is a debug message
+2025-12-26 10:07:15 - additional_context_logger - INFO - This is an info message
+2025-12-26 10:07:15 - additional_context_logger - WARNING - This is a warning message
+2025-12-26 10:07:15 - additional_context_logger - ERROR - This is an error message
+2025-12-26 10:07:15 - additional_context_logger - CRITICAL - This is a critical message

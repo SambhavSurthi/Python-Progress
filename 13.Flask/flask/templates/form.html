@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+
+    <h1>Enter Your Name In the form</h1>
+
+    <form action="/submit" method="post">
+    <label>
+        Name:
+        <input type="text" id="name" name="name" required>
+    </label>
+    <br><br>
+
+    <label>
+        Email:
+        <input type="email" id="email" name="email" required>
+    </label>
+    <br><br>
+
+    <label>
+        Age:
+        <input type="number" id="age" name="age" min="1" required>
+    </label>
+    <br><br>
+
+    <button type="submit">Submit</button>
+</form>
+
+    
+</body>
+</html>

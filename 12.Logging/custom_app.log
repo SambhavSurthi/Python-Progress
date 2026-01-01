@@ -1,0 +1,15 @@
+2025-12-26 10:06:56,737 - DEBUG - This is a debug message
+2025-12-26 10:06:56,739 - INFO - This is an info message
+2025-12-26 10:06:56,741 - WARNING - This is a warning message
+2025-12-26 10:06:56,743 - ERROR - This is an error message
+2025-12-26 10:06:56,744 - CRITICAL - This is a critical message
+2025-12-26 10:07:15,664 - DEBUG - This is a debug message
+2025-12-26 10:07:15,664 - DEBUG - This is a debug message
+2025-12-26 10:07:15,668 - INFO - This is an info message
+2025-12-26 10:07:15,668 - INFO - This is an info message
+2025-12-26 10:07:15,672 - WARNING - This is a warning message
+2025-12-26 10:07:15,672 - WARNING - This is a warning message
+2025-12-26 10:07:15,675 - ERROR - This is an error message
+2025-12-26 10:07:15,675 - ERROR - This is an error message
+2025-12-26 10:07:15,677 - CRITICAL - This is a critical message
+2025-12-26 10:07:15,677 - CRITICAL - This is a critical message
