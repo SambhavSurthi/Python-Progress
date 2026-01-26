@@ -1,0 +1,9 @@
+ipykernel
+ipywidgets
+matplotlib
+seaborn
+numpy
+pandas
+plotly
+scikit-learn
+ydata-profiling
