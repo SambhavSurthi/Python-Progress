@@ -1,5 +1,5 @@
 # from mypackage.module1 import addition
-# from mypackage.module2 import multiplication
+# from mypackage.module2 import multiplications
 # print(addition.add(2,5))
 # print(multiplication.mul(2,5))
 
