@@ -436,3 +436,11 @@ CMD ["python", "app.py"]
 After Creating the dockerfile, Now we need to create Dockerimage for the Project.
 
 `docker build -t <ImageName> .` - This will create us Docker Image, `Image Name` here can be of Your choice. if you want to deploy it in docker hub then the name must be `username/imagename`, `.` is the path od project/Dockerfile.
+
+- After Creating the Image Using the following Command we can Execute the Basic commands to create container and run the application.
+
+## Push Image to Docker Hub
+`docker login` -  TO Login to DockerHub.
+`docker push <imagename>` - To Image to Docker Hub.
+- Again use Basic Commands to pull your image and create container and run the application.
+

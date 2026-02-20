@@ -1,0 +1,17 @@
+version: "3.9"
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5000:8000"
+    depends_on:
+      - redis
+  redis:
+    image: redis:7
+    volumes:
+      - redis-data:/data
+
+volumes:
+  redis-data:
